@@ -1,6 +1,6 @@
 # Polymer Admin Template
 
-Responsive admin dashboard created using Polymer 1.0 and [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit).
+响应管理仪表板使用聚合物1.0 [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit).
 
 ![demo](http://i.imgur.com/dfngCzT.png)
 
@@ -14,9 +14,9 @@ Check out [LIVE DEMO](https://polymer-admin.firebaseapp.com/)
 * Gulp build
 * And other features of [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit)
 
-## Getting started
+##入门
 
-1. Clone project:
+1.克隆项目：
 
   ```sh
   git clone https://github.com/akveo/polymer-admin.git
@@ -24,33 +24,33 @@ Check out [LIVE DEMO](https://polymer-admin.firebaseapp.com/)
 
 2. Download and install [nodejs](https://nodejs.org). The version should be at or above 0.12.x.
 
-3. Install gulp and bower globally:
+3. 安装 gulp 和 bower 全球:
 
   ```sh
   npm install -g gulp bower
   ```
 
-4. Install dependencies:
+4. 安装的依赖：
 
   ```sh
   npm install && bower install
   ```
 
-5. Build & vulcanize sources:
+5. 来源：和硫化建设|Build & vulcanize sources:
 
   ```sh
   gulp
   ```
 
-## Development workflow
+## 开发流程
 
-Run development web-server:
+运行开发网络服务器：
 
 ```sh
 gulp serve
 ```
 
-Run production web-server:
+运行生产网络服务器：
 
 ```sh
 gulp serve:dist
